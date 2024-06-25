@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>/home/viktor/my_projects_qt_2/1_v_2/icons/16х16.png</file>
+    <file>/home/viktor/my_projects_qt_2/1_v_2/icons/32х32.png</file>
+    <file>/home/viktor/my_projects_qt_2/1_v_2/icons/64х64.png</file>
+    <file>/home/viktor/my_projects_qt_2/1_v_2/icons/128x128.png</file>
+</qresource>
+</RCC>
