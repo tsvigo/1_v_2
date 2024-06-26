@@ -239,7 +239,8 @@ int main(int argc, char *argv[])
  {
      std::cout << "сразу; list_of_neurons->at(200) = "
                << list_of_neurons.at(200) << std::endl;
-     goto f; // сразу на выход если определяет правильно
+     goto //d;//
+         f; // сразу на выход если определяет правильно
  }
  //###########################################################################
  //###########################################################################
@@ -308,7 +309,7 @@ int main(int argc, char *argv[])
       // exit(0);
      std::cout << "list_of_neurons->at(200) = "
                << list_of_neurons.at(200) << std::endl;
-     goto f;
+     goto d;//f;
      // увеличиваем  индекс синапса
  }
  if (list_of_neurons.at(200) >= 0)
