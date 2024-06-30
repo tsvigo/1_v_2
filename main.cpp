@@ -126,7 +126,7 @@ long long activationFunction( // long long list_of_neurons.at(var)
 {
     long long base, exponent, result;
 
-    unsigned long long giperparametr =0;//2;//200;
+    unsigned long long giperparametr =2;//0;//2;//200;
     base=3; /// тут скорее 3 потому что 2,7
     exponent = list_of_neurons.at(var); // степень
     result = pow(base, exponent);
